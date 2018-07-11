@@ -27,7 +27,7 @@ yum -y install tcsh ksh zsh
 # Install additional packages
 ################################################################################
 yum -y install vim
-yum install libXrender-devel
+yum -y install libXrender-devel
 ################################################################################
 # Install PIP from EPEL and upgrade it to the latest version
 ################################################################################
